@@ -1,0 +1,21 @@
+{
+    "name": "neox-theme",
+    "displayName": "Neox-Theme",
+    "description": "This is the theme for Neox project when coding it",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NEOX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NEOX-color-theme.json"
+            }
+        ]
+    }
+}

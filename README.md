@@ -1,9 +1,5 @@
 # NEOX's VS Code theme
 
-# GitHub's VS Code themes
-
-![GitHub VS Code theme](https://user-images.githubusercontent.com/378023/114663107-c1c97e00-9d34-11eb-8aa6-0c4f3d35af0b.png)
-
 ## Install
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme).

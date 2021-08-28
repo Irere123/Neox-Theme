@@ -2,29 +2,62 @@
   "name": "NEOX",
   "type": "dark",
   "colors": {
+    // Editor
     "editor.background": "#161b22",
     "editor.foreground": "#eeffff",
+    "editorGroup.border": "#30363d",
+    "editorGroupHeader.tabsBorder": "#30363d",
+    "editorGroupHeader.tabsBackground": "#0d1117",
+    "editorGroup.emptyBackground": "#0d1117",
+    "editorGroupHeader.noTabsBackground": "#0d1117",
     "titleBar.border": "#30363d",
+    "titleBar.activeBackground": "#0d1117",
+    "statusBar.background": "#0d1117",
+    "settings.dropdownBackground": "#0d1117",
+    "settings.dropdownBorder": "#30363d",
+    "pickerGroup.border": "#30363d",
+
+    // Menu
     "menu.background": "#0d1117",
     "menu.border": "#30363d",
-    "activityBarBadge.background": "#f50057",
+
     "window.activeBorder": "#30363d",
-    "window.inactiveBorder": "#ff0000",
+
+    // Terminal
     "terminal.border": "#30363d",
-    "sideBar.background": "#161b22",
-    "sideBarSectionHeader.background": "#161b22",
+    "terminal.background": "#0d1117",
+
+    // Sidebar
+    "sideBar.background": "#0d1117",
+    "sideBarSectionHeader.background": "#0d1117",
     "sideBarTitle.foreground": "#d3d3d3",
     "sideBar.foreground": "#d3d3d3",
     "sideBar.border": "#30363d",
     "sideBarSectionHeader.border": "#30363d",
-    "editorGroup.border": "#30363d",
+    "list.hoverBackground": "#30363d31",
+
+    // Tabs
     "tab.border": "#30363d",
     "tab.activeBackground": "#161b22",
     "tab.unfocusedActiveBorder": "#ff0000",
     "tab.inactiveBackground": "#0d1117",
     "tab.activeBorderTop": "#f50057",
+    "tab.activeBorder": "#0d1117",
+
+    // Activity bar
     "activityBar.background": "#161b22",
-    "activityBar.border": "#30363d"
+    "activityBar.border": "#30363d",
+    "activityBarBadge.background": "#f50057",
+
+    // Welcome Page
+    "welcomePage.tileBackground": "#0d1117",
+    "welcomePage.tileHoverBackground": "#30363d",
+    "welcomePage.progress.background": "#30363d",
+    "welcomePage.progress.foreground": "#f50057",
+
+    // Inputs
+    "input.background": "#30363d31",
+    "input.border": "#30363d"
   },
   "tokenColors": [
     {

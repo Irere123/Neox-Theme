@@ -1,4 +1,7 @@
-# NEOX's VS Code theme
+<p style="display:flex; justify-content:center;align-items;center;">
+ <img width="150" height="150" src="./assets/Neox-NEW.png" alt="NEOX LOGO"/>
+ <h1 style="text-align:center;font-family:'Ubuntu', sans-serif">NEOX THEME</h1>
+</p>
 
 ## Install
 
@@ -29,3 +32,7 @@ Note:
 ## Publish (internal)
 
 > Note: Publishing a new version of this theme is only meant for maintainers.
+
+## Created By:
+
+> Irere Emmanuel

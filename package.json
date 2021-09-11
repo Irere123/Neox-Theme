@@ -1,7 +1,12 @@
 {
   "name": "neox-theme",
   "publisher": "IrereEmmanuel",
-  "displayName": "Neox-Theme",
+  "displayName": "Neox Theme",
+  "icon": "assets/Neox.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Irere123/Neox-Theme.git"
+  },
   "description": "Neox Theme is a theme that uses Neox platfrom design systems and colors",
   "version": "0.0.1",
   "engines": {

@@ -1,7 +1,9 @@
-<p style="display:flex; justify-content:center;align-items;center;">
- <img width="150" height="150" src="./assets/Neox-NEW.png" alt="NEOX LOGO"/>
- <h1 style="text-align:center;font-family:'Ubuntu', sans-serif">NEOX THEME</h1>
+<p align="center">
+  <img alt="NEOX THEME Logo" src="https://github.com/Irere123/Neox-Theme/blob/master/assets/Neox-NEW.png?raw=true" width="100" />
 </p>
+<h1 align="center">
+  NEOX Theme for VS Code
+</h1>
 
 ## Install
 

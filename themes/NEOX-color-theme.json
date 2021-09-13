@@ -12,7 +12,8 @@
     "editorGroupHeader.noTabsBackground": "#0d1117",
     "titleBar.border": "#30363d",
     "titleBar.activeBackground": "#0d1117",
-    "statusBar.background": "#0d1117",
+    "statusBar.border": "#30363d",
+    "statusBar.background": "#161b22",
     "settings.dropdownBackground": "#0d1117",
     "settings.dropdownBorder": "#30363d",
     "pickerGroup.border": "#30363d",
@@ -26,6 +27,10 @@
     // Terminal
     "terminal.border": "#30363d",
     "terminal.background": "#0d1117",
+
+    // Quick Picker colors(Command Palettes and others)
+    "quickInput.background": "#0d1117",
+    "quickInput.foreground": "#d3d3d3",
 
     // Sidebar
     "sideBar.background": "#0d1117",

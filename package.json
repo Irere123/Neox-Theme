@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "NEOX",
+        "label": "Neox Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/NEOX-color-theme.json"
+        "path": "./themes/NEOX-Dark.json"
+      },
+      {
+        "label": "Neox Light",
+        "uiTheme": "vs-light",
+        "path": "./themes/NEOX-Light.json"
       }
     ]
   }

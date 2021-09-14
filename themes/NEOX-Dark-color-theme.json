@@ -53,6 +53,7 @@
     "activityBar.background": "#161b22",
     "activityBar.border": "#30363d",
     "activityBarBadge.background": "#f50057",
+    "activityBar.activeBorder": "#f50057",
 
     // Welcome Page
     "welcomePage.tileBackground": "#0d1117",
@@ -62,7 +63,16 @@
 
     // Inputs
     "input.background": "#30363d31",
-    "input.border": "#30363d"
+    "input.border": "#30363d",
+
+    // Widgets
+    "debugToolBar.background": "#30363d",
+    "editor.findMatchBackground": "#30363d",
+    "editorHoverWidget.background": "#0d1117",
+    "editorHoverWidget.border": "#30363d",
+    "editorLineNumber.activeForeground": "#f6f6f6",
+    "editorSuggestWidget.background": "#0d1117",
+    "editorSuggestWidget.border": "#30363d"
   },
   "tokenColors": [
     {

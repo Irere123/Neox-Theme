@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="NEOX THEME Logo" src="https://github.com/Irere123/Neox-Theme/blob/master/assets/Neox-NEW.png?raw=true" width="100" />
+  <img alt="NEOX THEME Logo" src="https://github.com/Irere123/Neox-Theme/blob/master/assets/Neox.png?raw=true" width="100" />
 </p>
 <h1 align="center">
   NEOX Theme for VS Code

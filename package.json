@@ -8,7 +8,7 @@
     "url": "https://github.com/Irere123/Neox-Theme.git"
   },
   "description": "Neox Theme is a theme that uses Neox platfrom design systems and colors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.59.0"
   },
